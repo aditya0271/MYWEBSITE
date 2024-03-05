@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    width: 7%;
+    height: 7%;
+}
+.card-img-top{
+    height: 100px;
+    width: 100%;
+    align-items: stretch;
+    object-fit: contain;
+}
+.navlink {
+    text-decoration: none  /* Remove underline */
+}
+.admin_image{
+    width:100px;
+    object-fit: contain;
+}
